@@ -26,6 +26,6 @@ function johnLennonFacts(facts) {
     do {
       arr.push('I love the Beatles!');
     }
-    
+    while
     }
   }
